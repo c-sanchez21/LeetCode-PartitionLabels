@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\bin\Debug\netcoreapp3.1\PartitionLabels.exe
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\bin\Debug\netcoreapp3.1\PartitionLabels.deps.json
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\bin\Debug\netcoreapp3.1\PartitionLabels.runtimeconfig.json
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\bin\Debug\netcoreapp3.1\PartitionLabels.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\bin\Debug\netcoreapp3.1\PartitionLabels.dll
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\bin\Debug\netcoreapp3.1\PartitionLabels.pdb
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\obj\Debug\netcoreapp3.1\PartitionLabels.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\obj\Debug\netcoreapp3.1\PartitionLabels.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\obj\Debug\netcoreapp3.1\PartitionLabels.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\obj\Debug\netcoreapp3.1\PartitionLabels.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\obj\Debug\netcoreapp3.1\PartitionLabels.dll
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\obj\Debug\netcoreapp3.1\PartitionLabels.pdb
+C:\Users\Z\source\repos\Git\Leetcode\PartitionLabels\PartitionLabels\obj\Debug\netcoreapp3.1\PartitionLabels.genruntimeconfig.cache
